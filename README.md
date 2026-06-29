@@ -417,7 +417,7 @@ A few things that weren't obvious going in:
 
 ## Built By
 
-**Vishv Bhuva**
+**Vishv Bhingradiya**
 B.Tech Computer Science · Nirma University, Ahmedabad
 Internship Project @ [Touchbeat.in](https://touchbeat.in)
 
