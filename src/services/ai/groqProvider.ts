@@ -1,8 +1,8 @@
-// groqProvider.ts — calls the Python FastAPI backend (localhost:8000)
+// groqProvider.ts — calls the Python FastAPI backend (Render)
 // The backend holds the Groq API key — it never touches the browser.
 import type { AIProvider, AIMessage, AITool, AIStreamChunk } from './aiProvider';
 
-const BACKEND_URL      = 'http://localhost:8000';
+const BACKEND_URL = 'https://holoroom-touchbeat-backend.onrender.com';
 const CONNECT_TIMEOUT  = 20_000;   // ms — wait for first byte
 const STREAM_TIMEOUT   = 30_000;   // ms — max silence between chunks
 

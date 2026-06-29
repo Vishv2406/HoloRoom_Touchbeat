@@ -286,7 +286,7 @@ export default function AICopilotPanel() {
                       style={{ background: 'rgba(255,255,255,0.04)', border: '1px solid var(--border)' }}>
                       <span className="w-2 h-2 rounded-full bg-green-400 animate-pulse shrink-0" />
                       <span style={{ color: 'var(--text-secondary)' }}>
-                        Connected to <code className="text-xs" style={{ color: 'var(--cyan)' }}>localhost:8000</code>
+                        Connected to <code className="text-xs" style={{ color: 'var(--cyan)' }}>holoroom-touchbeat-backend.onrender.com</code>
                       </span>
                     </div>
                     <div className="text-[10px] mt-1" style={{ color: 'var(--text-muted)' }}>
